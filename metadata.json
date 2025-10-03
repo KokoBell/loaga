@@ -1,0 +1,4 @@
+{
+  "name": "React Site Builder",
+  "description": "A powerful, no-framework website builder built with React. It features a three-panel UI for project navigation, visual design, and property editing. All user actions update a central state, which is translated in real-time into clean HTML, CSS, and JavaScript, available for download as a complete project."
+}
